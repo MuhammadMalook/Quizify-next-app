@@ -11,7 +11,7 @@ export default function Home() {
         <div className="grid grid-cols-1 md:grid-cols-2 p-5 md:p-10 gap-4">
           <div className="relative h-full">
             <Image
-              src={"/logo.png"}
+              src={"/logo.svg"}
               alt="banner-image"
               priority
               width={500}
